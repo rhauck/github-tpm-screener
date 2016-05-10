@@ -1,5 +1,5 @@
 # github-tpm-screener
-I created this repo to share my answers to the Github Technical Program Manager screener questions.
+I created this repo to share my answers to the GitHub Technical Program Manager screener questions.
 
 ### Part 1
 *In your own words, please describe the most challenging project you coordinated in the past that had tight deadlines and involved collaboration from multiple teams. How did you go about it? What were the biggest challenges? If you were tasked with coordinating for that project now, what would you do differently?*
