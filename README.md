@@ -28,4 +28,4 @@ Within my core team, consisting of ~70 people divided into 5 squads, I also mana
 
 ### Response
 - For #1, I forked it and cloned it from here: [https://github.com/rhauck/jquery-pjax](https://github.com/rhauck/jquery-pjax)
-- For #2-5, I submitted the script as PR #1 on this repo
+- For #2-5, I submitted the script as [PR #1 on this repo](https://github.com/rhauck/github-tpm-screener/pull/1)
